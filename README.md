@@ -1,7 +1,3 @@
-# Vue 3 Firebase Tutorial: Build Firestore CRUD Web Application
-
-This source code is part of [Vue.js Firebase Tutorial: Build Firestore CRUD Web Application](https://www.djamware.com/post/5bc9313680aca7466989441e/vuejs-firebase-tutorial-build-firestore-crud-web-application) tutorial.
-
 ## Project setup
 ```
 yarn install
